@@ -9,7 +9,7 @@
 
 ![image](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/929391ea-52c0-4cb3-9181-7fa77ee8805e)
 
-# Page productS : 
+# Page products : 
 ![image](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/04fb626a-b6af-496c-95dd-398657c0633b)
 
 # search :
@@ -24,6 +24,7 @@ Test sur Product 'PC1'
 # lancement du json-server sur le port 8089
 #![image](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/974a4a80-6635-4cb5-aa90-da8a0e07b5f6)
 Products :
+
 ![image](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/671a05f7-9669-43a1-b02c-3aeb58915865)
 
 ## Application : 
@@ -49,8 +50,10 @@ _Pour User pas un Admin :
 
 ## Backend avec Spring :
 Students :
+
 ![Screenshot 2024-06-04 191918](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/81d09332-a510-4ac1-9496-1b5679dac050)
 Payements :
+
 ![Screenshot 2024-06-04 192131](https://github.com/MansourAnas1/TP4-Angular-Spring-AnasMansour-MIAAD/assets/167020036/c7c239c3-ec71-4d6b-937b-754f9028af0d)
 
 Tester le backend en utilisant un client REST (Postman) et avec SWAGGER UI
